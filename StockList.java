@@ -24,4 +24,5 @@ public class StockList {
 	public static void setTotal_value(double total_value) {
 		StockList.total_value = total_value;
 	}
+	
 }
