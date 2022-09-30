@@ -44,5 +44,4 @@ public class StockPortfolio {
 		return "StockPortfolio [stock_Name=" + stock_Name + ", no_Of_Shares=" + no_Of_Shares + ", share_Price="
 				+ share_Price + ", total_Val_Shares=" + total_Val_Shares + "]";
 	}
-
 }
