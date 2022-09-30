@@ -41,4 +41,5 @@ public class StockManagement {
 		}
 		System.out.println("Total value of stock : " + StockList.getTotal_value());
 	}
+	
 }
